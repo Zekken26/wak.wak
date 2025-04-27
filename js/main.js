@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function openModal() {
     let videoModal = document.getElementById("videoModal");
     let videoFrame = document.getElementById("videoFrame");
-    videoFrame.src = "https://www.youtube.com/embed/EiiapMg_QNw?si=sFyEv60zPSMu98u2&amp;controls=0";
+    videoFrame.src = "https://www.youtube.com/embed/NLwZP6e38qc?si=7HaMZsu5u42jl31K&amp;controls=0";
     videoModal.style.display = "flex";
 }
 
